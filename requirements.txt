@@ -1,0 +1,2 @@
+mlrun[api]
+scikit-learn~=1.0
